@@ -7,8 +7,6 @@ SERENITY JUNIT TEST AUTOMATION FRAMEWORK
 - Java 17
 - Intellij
 - Maven
-- Cucumber for Java Plugin
-- Gherkin Plugin
 
 # Test Output:
 - target/site/serenity/index.html
